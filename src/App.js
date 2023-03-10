@@ -60,7 +60,7 @@ function App() {
     setLoading(true);
 
     const gcp = "https://fragabs-goxfx5qnca-uc.a.run.app";
-    const ngrok = "http://df8a-35-224-170-105.ngrok.io/";
+    const ngrok = "http://df8a-35-224-170-105.ngrok.io";
 
     // http://127.0.0.1:8000/
     return fetch(ngrok, {
