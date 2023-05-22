@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Bart Model
+
+For model building we used BART, stands for Bidirectional Auto-Regressive Transformers. This model is by Facebook AI research that combines Google's BERT and OpenAI's GPT It is bidirectional like BERT and is auto-regressive like GPT.
